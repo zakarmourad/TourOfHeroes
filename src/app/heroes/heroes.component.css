@@ -64,3 +64,17 @@
 .heroes .name {
   align-self: center;
 }
+#dyali {
+  background-color: rgb(89, 55, 227);
+  color: white;
+  border: #e6e6e6;
+  border-radius: 4px;
+  display: flex;
+  padding: 15px;
+  align-items: center;
+  margin-left: 30%;
+}
+#dyali:hover {
+  background-color: rgb(207, 38, 12);
+  color: white;
+}
